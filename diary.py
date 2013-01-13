@@ -23,4 +23,4 @@ os.chdir(month)
 if os.name is "nt":
     os.system("gvim %s.md"%(day))
 else:
-	os.system("vim %s.md"%(day))
+    os.system("vim %s.md"%(day))
