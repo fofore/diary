@@ -69,7 +69,7 @@ do that:
     help
     help 
 
-[why no help](fofore.com)
+[why no help](http://fofore.com)
 when I open the cal file(now the md file), then use set syntax=markdown to format it to markdown files.
 
 
