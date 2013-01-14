@@ -22,6 +22,6 @@ os.chdir(month)
 #print os.getcwd()
 
 if os.name is "nt":
-    os.system("gvim %s-%s-wk%s.md"%(day, weekday, weeknum))
+    os.system("gvim %s-wk%s-%s.md"%(day, weeknum, weekday))
 else:
-    os.system("vim %s-%s-wk%s.md"%(day, weekday, weeknum))
+    os.system("vim %s-wk%s-%s.md"%(day, weeknum, weekday))
