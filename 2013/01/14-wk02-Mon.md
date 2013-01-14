@@ -9,3 +9,8 @@
     2.change the diary python script
     
     finished
+
+
+#TODO
+    
+    need to run the mst in the virtual enviroment, so I need to understand how it was builded.

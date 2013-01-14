@@ -1,7 +1,9 @@
 ##TODO Need to know:
 How to debugging stp?
+*with the log infomation can debug the software errors, the log infomation may have a switch, no print when use, but print info when debug switch opened.*
 
 What is the process for vlan beyond 512 stgs?
+*the current zebos has no stg command, is it a blade feature, and how can I get to kown it*
 
 Is there bpdu flood function?
 
