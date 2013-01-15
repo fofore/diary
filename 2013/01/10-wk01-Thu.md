@@ -17,6 +17,7 @@ Tip: If you are replacing bash, you may want to move some code from ~/.bashrc to
 
 
 ##change the font of putty, my the symbol seeable
+finished, and do a
 
 ##TODO:
 learn the linux trees

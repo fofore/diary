@@ -10,17 +10,17 @@
 ##linuxlearn
 
 ###ftp problem
-    when use the ftp to transfer files, there maybe some error happens, make sure the file size is the same in destination and target
+when use the ftp to transfer files, there maybe some error happens, make sure the file size is the same in destination and target
 
 ###tar command
-    the tar command useage:
+the tar command useage:
 
     for compress: tar czf [target] [source]
     for discompr: tar -xzf 
 use tar packet can solve the wrong size transfer by ftp problem.
 
 ###TODO
-    **should understand what the ko file is**
+**should understand what the ko file is**
 
 
 ##zeboslearn
