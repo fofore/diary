@@ -1,4 +1,4 @@
-TODO:
+##TODO:
 1.Continue the compare job: 
     today, have no need to find out the diff between zebos commands and cisco nexes.
     read the cap excel files, find the detial diffs
@@ -9,6 +9,8 @@ TODO:
 
 3.Atuo checkin script: this can be done long time later, not so busy.
     Do i need to add script for checkin files, just to ensure not make any mistakes.
+    
+*no need to do this, modify can be check in any time*
 
 4.What the difference between catalyst and Nexus switch, and what zebos like, we use the Nexus to do the comparation job.
 
@@ -45,6 +47,8 @@ TODO:
     http://www.cisco.com/en/US/products/ps10110/index.html
         
 
+*as Mr Zhao says, there are some commands differences between the two series switchs*
+
 
 Linuxlearn:
 1.the telnet service in centos, 
@@ -62,8 +66,9 @@ additional infomation: maybe I use the port 22 yesterday, because is orginal in 
 Tooluse:
 putty check never. and the session will never end.
 
-WorkTODO:
+WorkTODO: need to learn how to, very soon will use it.
 learn how to use gdb to debug.
+
 
 
 betterlife:

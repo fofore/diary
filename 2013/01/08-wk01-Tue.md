@@ -92,11 +92,14 @@ then run /etc/init.d/ixnet restart, need to notice, should with the path
 the plugin of firefox markdown-here make writting blogs so easy, and the form so nice, that i can write the blog local, and just paste it into the diar in renre or somewhere else, than us the
 markdown-toggle button to change, quite brilliant and life seems much more happier.
 
-#TODO:
-    
+#TODO:finished
+     
     need to figure out, how to send, or just after the author yangzhipin says, write online, no fear to loose any codes or documents, writting in the github.
 
+*write online means, you can modify your file in the web browser, and github will save it automatically*
 
-#TODO:
+
+#TODO: going on
 
     to understan linux directorys
+
