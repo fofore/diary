@@ -126,7 +126,6 @@ so next time, I only have to change the modules, and remember to use tar.gz file
     ftpput 192.168.10.111 topology.ini
     ftpput 192.168.10.111 update.sh
     ftpput 192.168.10.111 vlogd   
-    ftpput 192.168.10.111 
 
     get run_client.sh
     get run_server.sh
