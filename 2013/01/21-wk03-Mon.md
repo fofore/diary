@@ -16,8 +16,8 @@
 
 ##linuxlearn
 
-1. the command used to find if the file has the content, and show the line
-    
+1.the command used to find if the file has the content, and show the line
+   
     cat **** | grep ****
 TODO:also need to know, what the cat command means
 
