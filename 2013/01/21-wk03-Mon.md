@@ -32,4 +32,21 @@ TODO:also need to know, what the cat command means
 
 
 ##github was blocked by gfw
+use GoAgent to access github:
+    
+    git remote rm origin
+    git remote add origin https://github.com/name/repo.git
+
+set the http proxy for git:
+    
+    git config --global http.proxy 127.0.0.1:8087
+
+shutdown the certificators:
+    
+    git config --global http.sslVerify false
+
+or set the certificators' directory:
+
+    git config --global http.sslVerify localdir/CA.crt
+
 
