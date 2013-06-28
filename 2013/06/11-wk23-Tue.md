@@ -50,3 +50,7 @@
 1，interesting problem；2，reasonable formulation；3，beautiful solution；4，surprising results（最好是有别于常人的直观或极大推进现有的局限）；5，excellent presentation。按照重要性，排序大概是1>2>4>3>5。但这几点是互相耦合的，牵一发动全身。做好的研究着实不容易。
  
 
+
+
+thinker:
+means critical thinking.
